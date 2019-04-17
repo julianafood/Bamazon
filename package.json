@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/julianafood/Bamazon/issues"
   },
-  "homepage": "https://github.com/julianafood/Bamazon#readme"
+  "homepage": "https://github.com/julianafood/Bamazon#readme",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  }
 }
